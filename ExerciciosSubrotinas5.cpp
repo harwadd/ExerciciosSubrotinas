@@ -28,7 +28,6 @@ int main()
     read("Insira a base e o expoente: ", base, expn);
 
     cout << "A potência de " << base << "^" << expn << " é: " << calc(base, expn) << endl;
-    
     return 0;
     
 }
